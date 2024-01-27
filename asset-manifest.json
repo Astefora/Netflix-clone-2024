@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Astefora.github.io/Netflix-clone-2024/static/css/main.e8c71319.css",
+    "main.js": "/Astefora.github.io/Netflix-clone-2024/static/js/main.88351bcc.js",
+    "static/js/787.6e10420e.chunk.js": "/Astefora.github.io/Netflix-clone-2024/static/js/787.6e10420e.chunk.js",
+    "static/media/NetflixLogo.png": "/Astefora.github.io/Netflix-clone-2024/static/media/NetflixLogo.303904f75553a51bbf31.png",
+    "index.html": "/Astefora.github.io/Netflix-clone-2024/index.html",
+    "main.e8c71319.css.map": "/Astefora.github.io/Netflix-clone-2024/static/css/main.e8c71319.css.map",
+    "main.88351bcc.js.map": "/Astefora.github.io/Netflix-clone-2024/static/js/main.88351bcc.js.map",
+    "787.6e10420e.chunk.js.map": "/Astefora.github.io/Netflix-clone-2024/static/js/787.6e10420e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8c71319.css",
+    "static/js/main.88351bcc.js"
+  ]
+}
