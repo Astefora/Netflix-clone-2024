@@ -22,7 +22,8 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "gh_pages -d biuld",
+    "deploy": "gh-pages -d build",
+    "postdeploy": "echo 'Deployed to GitHub Pages'",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
