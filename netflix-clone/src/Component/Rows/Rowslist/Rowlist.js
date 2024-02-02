@@ -1,5 +1,5 @@
 import React from 'react'
-import Row from '../Row/Row'
+import Row from '../../Rows/Row/Row'
 import requests from '../../../Utlies/Request'
 
 const RowList = () => {
